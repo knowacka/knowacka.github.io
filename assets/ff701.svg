@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20.0039" height="18" viewBox="0 0 20.0039 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2613">
+<mask id="stroke0_0_105" fill="white">
+<path d="M10 9C10 4.02944 7.76142 0 5 0C2.23858 0 0 4.02944 0 9C0 13.9706 2.23858 18 5 18C7.76142 18 10 13.9706 10 9Z"/>
+</mask>
+<ellipse id="Ellipse 2411" cx="5" cy="9" rx="5" ry="9" stroke-width="2.4" stroke="black" mask="url(#stroke0_0_105)"/>
+<mask id="stroke1_0_105" fill="white">
+<path d="M18.0039 9C18.0039 6.23858 16.6608 4 15.0039 4C13.3471 4 12.0039 6.23858 12.0039 9C12.0039 11.7614 13.3471 14 15.0039 14C16.6608 14 18.0039 11.7614 18.0039 9Z"/>
+</mask>
+<ellipse id="Ellipse 2413" cx="15.0039" cy="9" rx="3" ry="5" stroke-width="2.4" stroke="black" mask="url(#stroke1_0_105)"/>
+<mask id="stroke2_0_105" fill="white">
+<path d="M20.0039 9C20.0039 4.02944 17.7653 0 15.0039 0C12.2425 0 10.0039 4.02944 10.0039 9C10.0039 13.9706 12.2425 18 15.0039 18C17.7653 18 20.0039 13.9706 20.0039 9Z"/>
+</mask>
+<ellipse id="Ellipse 2414" cx="15.0039" cy="9" rx="5" ry="9" stroke-width="2.4" stroke="black" mask="url(#stroke2_0_105)"/>
+<mask id="stroke3_0_105" fill="white">
+<path d="M8 9C8 6.23858 6.65685 4 5 4C3.34315 4 2 6.23858 2 9C2 11.7614 3.34315 14 5 14C6.65685 14 8 11.7614 8 9Z"/>
+</mask>
+<ellipse id="Ellipse 2415" cx="5" cy="9" rx="3" ry="5" stroke-width="2.4" stroke="black" mask="url(#stroke3_0_105)"/>
+</g>
+</svg>
