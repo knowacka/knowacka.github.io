@@ -252,22 +252,30 @@ function Footer() {
         <p className="display-two">Let’s work together</p>
         <div>
           <p className="body muted">Drop me an email</p>
-          <p className="heading-six">karolina.nowacka.design@gmail.com</p>
+          <Action onClick={() => navigator.clipboard.writeText('karolina.nowacka.design@gmail.com')} label="copy email">
+            <p className="heading-six">karolina.nowacka.design@gmail.com</p>
+          </Action>
         </div>
       </div>
       <div className="socials">
-        <span>
-          <img src={`${assets}/a666c.svg`} alt="" />
-          Behance
-        </span>
-        <span>
-          <img src={`${assets}/7c620.svg`} alt="" />
-          Linkedin
-        </span>
-        <span>
-          <img src={`${assets}/18394.svg`} alt="" />
-          Dribbble
-        </span>
+        <a href="https://www.behance.net/karolinanowacka" target="_blank" rel="noopener noreferrer">
+          <span>
+            <img src={`${assets}/a666c.svg`} alt="" />
+            Behance
+          </span>
+        </a>
+        <a href="https://www.linkedin.com/in/karolina-nowacka-655521211/" target="_blank" rel="noopener noreferrer">
+          <span>
+            <img src={`${assets}/7c620.svg`} alt="" />
+            Linkedin
+          </span>
+        </a>
+        <a href="https://dribbble.com/karolinaen" target="_blank" rel="noopener noreferrer">
+          <span>
+            <img src={`${assets}/18394.svg`} alt="" />
+            Dribbble
+          </span>
+        </a>
       </div>
     </div>
   );
